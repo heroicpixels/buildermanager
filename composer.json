@@ -16,5 +16,5 @@
             "Heroicpixels\\Buildermanager": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
